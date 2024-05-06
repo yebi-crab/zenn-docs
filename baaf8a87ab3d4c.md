@@ -1,5 +1,5 @@
 ---
-title: "YouTubeAPIで、動画タイトルとコメントを収集する"
+title: "YouTube Data APIを利用して、動画タイトルとコメントを収集する"
 emoji: "💬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Python","YouTube"]
@@ -24,7 +24,7 @@ https://qiita.com/kaburankattara/items/240a457f79ade800a4fb
 Google Colaboratoryを利用。
 
 ## 使ってみる
-リファレンスは以下。
+リファレンスは以下です。
 https://developers.google.com/youtube/v3/docs?hl=ja
 
 以下の条件で動画データを取得。
